@@ -2,17 +2,13 @@
 
 ###
 
+<br clear="both">
+
 <p align="left">Motivated Computer Science graduate from University of Punjab with a strong foundation in Data Structures,<br>OOP, Database Systems, and Software Engineering principles. Complemented by 6 months of hands-on MERN<br>stack experience at SeeBiz Pvt. Ltd, building production-ready full-stack applications. Adept at writing clean,<br>well-documented code, solving real engineering problems, and collaborating in agile teams. Seeking a Software<br>Engineer role to apply both academic fundamentals and practical full-stack expertise.</p>
 
 ###
 
 <h2 align="left">About me</h2>
-
-###
-
-<div align="right">
-  <img height="100" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTVoZmF1dnBkODZtZGIybXNjOGgwbGd2d3g0MDVpeWt6c3Z1czNxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
-</div>
 
 ###
 
@@ -51,6 +47,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Alihassan80/Alihassan80/snake-output/snake.svg" alt="Snake animation" />
 
